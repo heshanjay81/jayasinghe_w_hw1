@@ -29,4 +29,4 @@ I am Hash from Sri Lanka. This is a J M Wimarsha Heshan Jayasinghe's other profi
 
 I love Ocean Alley
 
-1[Ocean Alley](images/002.webp)
+1[Ocean Alley](images/003.jpg)
