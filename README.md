@@ -12,7 +12,7 @@ Instagram Portfolio [Click Here](https://www.instagram.com/hebihash?igsh=NHMycnV
 
 <br>
 
-**My hobbies are:**
+## Hobbies
  - *Painting* - Watercolor, Pencil Sketch, Procreate
  - *MMA* - Karate, Muay Thai
  - *Travelling*
